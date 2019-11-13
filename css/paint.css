@@ -82,6 +82,6 @@ div > div > div#wall #tag-4 {
   display: none;
 }
 
-div#wall.parent #tag-5 .slick {
+div > div#wall .parent #tag-5.slick {
   display: none;
 }
