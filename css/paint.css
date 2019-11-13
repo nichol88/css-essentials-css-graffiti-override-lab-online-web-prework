@@ -78,6 +78,9 @@ div > div#wall #tag-3 ."slick wicked" {
   display: none;
 }
 
+div#wall .parent div#tag-4 {
+  display: none;
+}
 
 div#wall div.parent #tag-5.slick {
   display: none;
