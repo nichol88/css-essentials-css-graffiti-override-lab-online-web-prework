@@ -85,3 +85,7 @@ div > div > div#wall #tag-4 {
 div > div#wall .parent #tag-5.slick {
   display: none;
 }
+
+div#wall div.parent div:last-child div#tag-6 {
+  display: none;
+}
