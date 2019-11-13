@@ -66,15 +66,15 @@ body div#wall div.parent div > #tag-7.slick {
   display: block;
 }
 
-#wall."slick wicked" {
-  display: none;
-}
-
 #wall.tag-1 {
   display: none;
 }
 
-#wall#tag-2 {
+div #wall #tag-2 {
+  display: none;
+}
+
+#wall."slick wicked" {
   display: none;
 }
 
